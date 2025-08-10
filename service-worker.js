@@ -1,4 +1,4 @@
-const CACHE_NAME = 'V20250809a';
+const CACHE_NAME = 'V20250810a';
 
 self.addEventListener('install', (event) => {
     console.log('Service Worker: Evento de instalación');
